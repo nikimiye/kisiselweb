@@ -1,0 +1,73 @@
+
+
+
+body{
+margin: 0px;
+text-align: center;
+}
+
+.topc{
+    background-color: #e4f9f5;
+}
+.skills{
+    text-align: center;
+    margin: 0px auto 0px auto;
+    width: 50%;
+
+}
+.botc{
+
+}
+
+
+hr{
+    
+    background-color: burlywood;
+    width: 30%;
+    border-style: dotted none none none;
+    border-color: white;
+    border-width: 5px;
+}
+
+h1{
+    color: #66BFBF;
+    margin: 0px 0px 0px 0px;
+    font-size: 5.625rem;
+    font-family: 'Sacramento' , cursive;
+}
+
+h2{
+    font-size: 2.5rem;
+    color:  #66BFBF;
+    font-weight: normal;
+    margin: 0px 0px 0px 0px;
+    line-height: 2;
+
+}
+h3{
+    color:  #11999E;
+}
+
+.myName{
+    background-color: #e4f9f5;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+}
+
+p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.skill-row{
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+.comp{
+    width: 25%;
+}
+.chili{
+    width: 25%;
+}
